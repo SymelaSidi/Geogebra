@@ -1,1 +1,2 @@
 # Geogebra
+Using GeoGebra promotes activity, fun and of course efficiency. By creating digital activities, students are encouraged to learn through play. These can be implemented both with the use of computers and with the use of interactive screens. So by optimizing teaching through various digital activities, the learning process becomes more interesting and enjoyable. The specific use of the free online software Geogebra was made to create an interactive exercise, so that students can engage, experiment, collaborate and develop critical thinking.
